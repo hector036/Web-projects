@@ -1,0 +1,208 @@
+body{
+
+background-color:#;
+
+margin-left: auto;
+margin-right: auto;
+font-family: Verdana;
+font-size: 14px;
+width: 75%;
+}
+
+#header{ 
+
+background-color: #;
+margin: 42px auto 0px auto;
+height: 60px;
+border-radius: 0px;
+
+}
+
+#register {
+	
+	width: 80%;
+	height: 400px;
+	margin: 50px auto;
+	border: 2px solid #cecece;
+	padding: 20px;
+	
+}
+
+#register input[type='text']{
+	
+	height: 35px;
+	
+	width:48%;
+	padding: 3px;
+	margin-top: 18px;
+	margin-bottom: 18px;
+	border: 2px solid #cecece;
+	border-radius: 5px;
+}
+#register input[type='password']{
+	
+	height: 35px;
+	
+	width:48%;
+	padding: 3px;
+	margin-bottom: 20px;
+	border: 2px solid #cecece;
+	border-radius: 5px;
+	
+}
+#register .btm{
+	
+	background: #D4DBEE;
+  border: 1px solid #cecece;
+  margin-top: 10px;
+  color: #444;
+  display: block;
+  float: right;
+  font-size: 20px;
+  height: 28px;
+  margin-right: 16px;
+  text-align: center;
+  width: 180px;
+  border-radius: 3px;
+	
+	
+}
+
+#footer{
+
+background-color: #;
+margin: 10px;
+height: 10px;
+border-radius: 5px;
+clear: both;
+
+color: #efe5d0;
+text-align: center;
+padding: 15px;
+font-size: 90%; 
+
+}
+h1,h2{
+
+font-size: 120%;
+color: #ce282e;
+
+}
+
+h3{
+
+font-size: 250%;
+text-align: center;
+color: #8C8C8C;
+font-family: "Century Gothic";
+margin: 10px;
+
+position: relative;
+ top:50%;
+ -webkit-transform: translateY(-50%);
+ -ms-transform: translateY(-50%);
+ transform: translateY(-50%);
+
+}
+.login {
+  background: rgba(0, 0, 0, 0) ;
+  margin-right:0px;
+  box-sizing: border-box;
+  color: #444;
+  display: block;
+  float: left;
+  font-size: 27px;
+  height: 38px;
+  margin-left: 700px;
+  text-align: center;
+  width: 144px;
+}
+.login a {
+	color:#333;
+}
+.resgister {
+  background: rgba(0, 0, 0, 0);
+  box-sizing: border-box;
+  color: #444;
+  display : block;
+  float: right;
+  font-size: 27px;
+  height: 38px;
+  margin-left: 0px;
+  margin-right:0px;
+  text-align: center;
+  width: 144px;
+  
+}
+.resgister a {
+	color:#333;
+}
+h4{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	text-align:left;
+	color: #8C8C8C;
+	font-size: 20px;
+	
+	
+}
+.error{
+	
+	padding: 5px;
+	text-align: center;
+	font-size: 18px;
+	color:#ED1C24;
+	
+	
+}
+
+
+#asuc{
+	
+	min-height: 430px;
+	
+	
+}
+
+.asucdiv{
+	
+	margin-top: 60px;
+	
+	
+}
+
+.asucdiv p{
+	
+	
+	text-align: center;
+	font-size: 16px;
+	color: #E6E6E6;
+		
+	
+}
+
+.asucdiv a{
+	
+	
+	color : #8080FF;
+}
+
+
+h5{
+
+font-size: 235%;
+text-align: center;
+color: #E6E6E6;
+font-family: "Century Gothic";
+margin: 10px;
+
+position: relative;
+ top:50%;
+ -webkit-transform: translateY(-50%);
+ -ms-transform: translateY(-50%);
+ transform: translateY(-50%);
+
+}
+
+
